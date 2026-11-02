@@ -1,0 +1,22 @@
+﻿M3 ball coverage checklist · tip 6c6b0b0 · Asia/Shanghai
+Source frames: pose-newmatch-initial / init-orientation / scatter-table / hl-*-close
+Method: full-table glance + close crops; HL = MakeLightingOverlay sibling + procedural SampleBallAlbedo (not V4 PNG on table)
+Columns: id | visible | HL_readable | notes
+cue|yes|yes|kitchen; hl-cue-close + init
+1|yes|yes|apex/rack solid yellow — init/hl-solid-close
+2|yes|yes|rack solid
+3|yes|yes|rack solid
+4|yes|partial|may be occluded in deep rack rows — see init fulltable
+5|yes|yes|rack solid
+6|yes|partial|mid-rack; confirm on init fulltable
+7|yes|partial|mid-rack
+8|yes|yes|center of rack; black
+9|yes|yes|stripe
+10|yes|partial|stripe mid-rack
+11|yes|yes|stripe — orientation watch ball
+12|yes|yes|stripe
+13|yes|yes|stripe — orientation watch ball
+14|yes|partial|stripe deep/edge
+15|yes|yes|stripe — orientation watch ball
+SUMMARY: cue+1-15 all marked visible on full rack init; HL readable on cue + multiple solids/stripes via close crops; partial=occlusion/angle not missing asset
+Do NOT force HL-FALLBACK missing-asset path. MiniBall/HUD chips NOT tested.
