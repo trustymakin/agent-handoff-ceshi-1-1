@@ -29,4 +29,10 @@
 
 **裁定：继续 `ENV_BLOCKED_NO_INDEPENDENT_WIN`；不硬派 PC 开跑。**
 
+## PC 书面确认（2026-11-03 ~18:15 Asia/Shanghai）
+
+客户端PC 回报：ListMachines 仅上述用户机 desktop；**无第二台 Windows**；无法在独立环境跑 BIND。已按站立令继续待命。
+
+**产品再裁：独立 Win 路径仍未落实；维持阻断；等测机登记并连接后再硬派。**
+
 依据原授权钉：`phase1-pc-wave7-a17-g3-targeted-retest-auth-6c6b0b0-20261103.md`；正式 BLOCKED 卷宗 SHA `CBADD598…9AF6`。
