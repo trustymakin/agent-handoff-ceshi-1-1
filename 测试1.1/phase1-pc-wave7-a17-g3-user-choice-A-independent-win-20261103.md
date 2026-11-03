@@ -36,3 +36,11 @@
 **产品再裁：独立 Win 路径仍未落实；维持阻断；等测机登记并连接后再硬派。**
 
 依据原授权钉：`phase1-pc-wave7-a17-g3-targeted-retest-auth-6c6b0b0-20261103.md`；正式 BLOCKED 卷宗 SHA `CBADD598…9AF6`。
+
+---
+
+## 改令作废本路径（2026-11-03 ~19:02 Asia/Shanghai）
+
+用户经 PM：「用本地的」＝**允许占用 `DESKTOP-OQUR45J` 跑 G3**；不再等独立 Win。  
+新授权钉：`phase1-pc-wave7-a17-g3-targeted-retest-auth-local-desktop-6c6b0b0-20261103.md`。本文件仅作历史站立记录。
+
