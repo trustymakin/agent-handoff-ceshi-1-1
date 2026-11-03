@@ -1,0 +1,11 @@
+﻿exe=C:\Users\ZYDN\Documents\Codex\2026-10-26\windows-hayo-pc-https-github-com\work\hayo-pc-37b7aef-win-runtime\clients\pc\src\FindTeammates.App\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\FindTeammates.App.exe
+size=272384
+sha256=C274B9747C957D16DAD21538DB16846EA4F836CC5371ADE7C9E9BA9D112E8600
+tip_full=37b7aefd25ec67e289097a801e95289b02a39eee
+tip_short=37b7aef
+parent=6c6b0b07d6e2a4febbff4b4e6430df11b52ebc65
+build=Release exit0
+wall=2026-11-04 04:00:25 +08:00
+stamp=2026-11-04 03:58:25 +08:00
+sha_differs_from_6c6b0b0=true
+BIND=ok
