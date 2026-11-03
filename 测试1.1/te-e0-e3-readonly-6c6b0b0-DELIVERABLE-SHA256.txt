@@ -1,0 +1,10 @@
+# TE-E0+E3 readonly observe · tip 6c6b0b0 · DELIVERABLE SHA256 · Asia/Shanghai
+
+win-verify (full file)  ff2c2759cebba885b1706ecc1502cbce67f81b3d17067828a096824b8db8c297
+  path: phase1-wave7-three-ends-te-e0-e3-readonly-observe-6c6b0b0-win-verify.md
+win-verify (body above final SHA heading)  d11cecfa942ebf43065ebd482435fbaf61fb2ff70e3e9ce78d9ecfad8734abe3
+fenliebiao  6cda172715fb25d4d2905fc7b58278e3d739f917188000a0f80f2b6c15e93a37
+  path: phase1-wave7-three-ends-te-e0-e3-readonly-observe-6c6b0b0-fenliebiao.md
+exe-bind  78d0124ce41dd2f643328ecb2d0cc756a72e51dc50d18a9a42285e7685658aea
+  path: exe-bind-6c6b0b0-te-e0-e3-readonly.txt
+auth_open_MATCH  941ea842c8aab247bbcbb7858d68eaa1251718dabc8386d65aeac14bfdc12eaa
