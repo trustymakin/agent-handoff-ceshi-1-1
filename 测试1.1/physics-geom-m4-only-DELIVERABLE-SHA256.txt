@@ -1,0 +1,5 @@
+0252ea304beebc11e96a27c1fd0d986b69f03cf74783a938cd0430334a7a2a26  phase1-pc-wave7-physics-geometry-min-m4-only-observe-6c6b0b0-win-verify.md  size=6523
+a44463b1bd5c0d45a34eb1c7dbd700c6c5e16e9f59dccfef5b227492335f853c  per-shot-table-physics-geom-m4-only-6c6b0b0.md  size=17684
+6b03515d7262d67cf78edb1c6ea3409d52ec96dc8cac54418c7a75f0bd61cde4  physics-geom-m4-only-6c6b0b0-evidence.zip  size=15825992
+6a540a16b97435a3cb8199a8aa9eb35ffb18774589acade1750e6d532af8991a  exe-bind-6c6b0b0-physics-geom-m4-only.txt  size=667
+9d56597e94fe80418da258bfd41c120ca86068091151a28c6b2cf99f2362c999  verdict-physics-geom-m4-only-6c6b0b0.txt  size=1531
