@@ -1,0 +1,14 @@
+﻿tip=6c6b0b07d6e2a4febbff4b4e6430df11b52ebc65
+parent=9fb9c5b3d2b9890677df549c3f15083452356dda
+exe=C:\Users\ZYDN\Documents\Codex\2026-10-26\windows-hayo-pc-https-github-com\work\hayo-pc-6c6b0b0-win-runtime\clients\pc\src\FindTeammates.App\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\FindTeammates.App.exe
+size=272384
+sha256=7B6B6B1B3E36F7BFC19E91AD77E30204C2AAE281976ED75D088E3EDB3E6BDB2E
+mtime=2026-11-03T02:48:30+08:00
+BIND_MATCH=True
+mode=Release
+api=mock
+mu=Default-readonly
+MU_DECLARE=Default 1.45/2.90/4.50 Soft 1.05/2.10/3.20 Sticky 1.95/3.80/6.00 FixedDt 1/900 ZERO_PARAM_CHANGE
+client=1650x1080
+dpi=144
+pack=physics-geom-pg-min-M4-corner-scrape

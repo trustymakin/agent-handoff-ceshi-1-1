@@ -1,0 +1,6 @@
+2eee9d68a8136a8d12d782db8bb689c20f8d37ca21ed2cdc4a00bf531bb2c58d  phase1-pc-wave7-physics-geometry-min-m4-corner-scrape-observe-6c6b0b0-win-verify.md
+f17db24d9ccda77480bf2d0177cc6f1dabf30c8dc6327601935c21e2c4d1c68b  per-shot-table-physics-geom-m4-corner-scrape-6c6b0b0.md
+77c72730bf254b743bb7d2c03857483f2b73682293c79862b53d69f0909ce0c1  physics-geom-m4-corner-scrape-6c6b0b0-evidence.zip
+28be712c7fcb324da4df67da5d4710e75d1340b304b37796c15756dc99535267  exe-bind-6c6b0b0-physics-geom-m4-corner-scrape.txt
+d07d1caf13588db377e3ec7dc69435e0421afd715f6407325eb0862d10761745  verdict-physics-geom-m4-corner-scrape-6c6b0b0.txt
+c30c8dc8287be6488001001a3cb99340f86b62003ed10e3e19314e04b0b8a81d  prior-candidate-visual-review-6c6b0b0.md

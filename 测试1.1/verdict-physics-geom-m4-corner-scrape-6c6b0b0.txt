@@ -1,0 +1,28 @@
+﻿TIP=6c6b0b07d6e2a4febbff4b4e6430df11b52ebc65
+PARENT=9fb9c5b3d2b9890677df549c3f15083452356dda
+EXE_SHA=7B6B6B1B3E36F7BFC19E91AD77E30204C2AAE281976ED75D088E3EDB3E6BDB2E
+EXE_SIZE=272384
+EXE_MTIME=2026-11-03T02:48:30+08:00
+HOTSEAT=1
+API=mock
+CLIENT=1650x1080
+DPI=144
+PACKAGE=PARTIAL
+MU_READONLY=YES
+ZERO_PARAM_CHANGE=YES
+SCOPE=M4-corner-scrape-limited
+FFMPEG=C:\Users\ZYDN\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe
+SHOT_TABLE=C:\Users\ZYDN\Documents\Codex\2026-10-26\windows-hayo-pc-https-github-com\work\hayo-pc-6c6b0b0-win-runtime\shots-physics-geom-m4-corner-scrape-6c6b0b0\per-shot-table-physics-geom-m4-corner-scrape-6c6b0b0.md
+BIND_PATH=C:\Users\ZYDN\Documents\Codex\2026-10-26\windows-hayo-pc-https-github-com\work\hayo-pc-6c6b0b0-win-runtime\shots-physics-geom-m4-corner-scrape-6c6b0b0\exe-bind-6c6b0b0-physics-geom-m4-corner-scrape.txt
+CORNER_CLEAN=0
+SIDE_CLEAN=0
+CORNER_SCRAPE_CAND=4
+SIDE_SCRAPE_CAND=1
+SIDE_CLEAN_RETAINED=1
+MAX_SHOTS=12
+BIND|PASS|tip=6c6b0b07d6e2a4febbff4b4e6430df11b52ebc65 parent=9fb9c5b3d2b9890677df549c3f15083452356dda size=272384 sha=7B6B6B1B3E36F7BFC19E91AD77E30204C2AAE281976ED75D088E3EDB3E6BDB2E Release/mock/Default; mu_ro; ZERO param change; M4-corner-scrape-limited
+M4|missing|cornerClean=0 sideClean=0 sideCleanRetained=1 cornerScrapeCand=4 sideScrapeCand=1; events=12; STRICT=杩涜[n] only; scrape=visual_review_only_not_auto; MAX12
+M1|RETAINED|from prior PARTIAL win-verify; not re-run
+M2|RETAINED|from prior PARTIAL win-verify; not re-run
+M3|RETAINED|from prior PARTIAL win-verify; not re-run
+FAIL_FLAGS|;
